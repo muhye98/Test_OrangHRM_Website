@@ -144,3 +144,34 @@ public class theassirtionsforOrangHRM {
 	}
 
 }
+
+//These assiartios based on this situations below 
+
+//Verify that the login page is accessible.
+//Ensure that the login page contains the username and password input fields.
+//Verify that the "Login" button is present.
+//Attempt to log in with valid username and password credentials.
+//Verify that a user is successfully logged in after providing valid credentials.
+//Attempt to log in with an invalid username and valid password.
+//Verify that an error message appears for an invalid username.
+//Attempt to log in with a valid username and an invalid password.
+//Verify that an error message appears for an invalid password.
+//Attempt to log in with empty username and password fields.
+//Verify that error messages appear for both fields when they are left empty.
+//Check the "Remember me" functionality, verify that it keeps the user logged in.
+//Verify the "Forgot your password?" link is functional.
+//Verify that clicking the "Forgot your password?" link navigates to the password reset page.
+//Verify the functionality of the "User Name" hint feature.
+//Verify the functionality of the "Password" hint feature.
+//Verify that the "Remember me" option works after logging out and logging back in.
+//Verify the "Logout" functionality.
+//Check that the user is successfully logged out after clicking the "Logout" link.
+//Verify the appearance and functionality of the "OrangeHRM, Inc" link.
+//Verify the appearance and functionality of the "Version 4.2.0" link.
+//Test the behavior when entering incorrect credentials multiple times.
+//Verify that the account is locked after a specified number of unsuccessful login attempts.
+//Verify the error message when trying to access restricted pages without logging in.
+//Test the website's responsiveness by accessing it on various devices and browsers.
+
+
+
